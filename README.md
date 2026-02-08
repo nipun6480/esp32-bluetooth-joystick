@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎮 ESP32 Bluetooth Joystick for Mobile Snake Game
 
 This project turns an ESP32 into a Bluetooth joystick (HID keyboard) to control Snake and other mobile games wirelessly.
